@@ -1,0 +1,3 @@
+Examples-Patterns è un progetto dedicato a presentare e condividere esempi di implementazione personalizzati dei pattern di progettazione più diffusi. 
+In questo repository, troverai una raccolta di codice che illustra in dettaglio come applico i principi di design attraverso l'implementazione pratica di pattern.
+L'obiettivo principale del progetto è condividere la mia esperienza e approccio nella realizzazione di soluzioni basate su pattern, fornendo esempi chiari e comprensibili per ispirare e assistere altri sviluppatori nel migliorare le proprie competenze di progettazione del software.
